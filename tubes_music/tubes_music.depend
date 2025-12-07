@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1765026476 source:c:\users\rafi akmal\onedrive\documents\kuliah\strukturdata\tubes\tubes\tubes_music\main.cpp
+	<iostream>
+	"music.h"
+
+1765102028 c:\users\rafi akmal\onedrive\documents\kuliah\strukturdata\tubes\tubes\tubes_music\music.h
+	<string>
+
