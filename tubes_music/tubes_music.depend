@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1765726924 source:c:\users\rafi akmal\onedrive\documents\kuliah\strukturdata\tubes\tubes\tubes_music\main.cpp
+	<iostream>
+	"music.h"
+
+1765726867 c:\users\rafi akmal\onedrive\documents\kuliah\strukturdata\tubes\tubes\tubes_music\music.h
+	<string>
+
+1765719078 source:c:\users\rafi akmal\onedrive\documents\kuliah\strukturdata\tubes\tubes\tubes_music\music.cpp
+	<iostream>
+	"music.h"
+
+1765722573 source:c:\users\rafi akmal\onedrive\documents\kuliah\strukturdata\tubes\tubes\tubes_music\library.cpp
+	<iostream>
+	"music.h"
+
+1765722573 source:c:\users\rafi akmal\onedrive\documents\kuliah\strukturdata\tubes\tubes\tubes_music\player.cpp
+	<iostream>
+	"music.h"
+
+1765722573 source:c:\users\rafi akmal\onedrive\documents\kuliah\strukturdata\tubes\tubes\tubes_music\playlist.cpp
+	<iostream>
+	"music.h"
+
+1765724134 source:c:\users\rafi akmal\onedrive\documents\kuliah\strukturdata\tubes\tubes\tubes_music\tree.cpp
+	<iostream>
+	"music.h"
+
+1765726915 source:c:\users\rafi akmal\onedrive\documents\kuliah\strukturdata\tubes\tubes\tubes_music\favorit.cpp
+	<iostream>
+	"music.h"
+
