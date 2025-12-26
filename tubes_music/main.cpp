@@ -227,6 +227,11 @@ int main()
     music m2 = {"2", "Sial", "Mahalini", 3, "Pop"};
     music m3 = {"3", "Numb", "LinkinPark", 4, "Rock"};
 
+    insertLastInLibrary(MasterLibrary, allocateLibrary(m1));
+    insertLastInLibrary(MasterLibrary, allocateLibrary(m2));
+    insertLastInLibrary(MasterLibrary, allocateLibrary(m3));
+    insertLastInLibrary(MasterLibrary, allocateLibrary(m4));
+
     addressPlaylist pl1 = allocatePlaylist("Galau", "User 1");
     addPlaylist(MyPlaylist, pl1);
 
@@ -258,3 +263,4 @@ int main()
 
     return 0;
 }
+
