@@ -32,6 +32,13 @@ Program ini menggunakan beberapa struktur data, antara lain:
 - Queue untuk mengatur urutan playlist
 - Tree untuk sorting 
 
+Langkah-Langkah Menjalankan Program 
+1. Install aplikasi Code::Blocks di komputer, pastikan sudah termasuk compiler agar program bisa dijalankan.
+2. Unduh atau clone repository proyek dari GitHub, lalu simpan di folder komputer.
+3. Buka Code::Blocks, kemudian buka file project dengan ekstensi .cbp yang ada di folder proyek.
+4. Klik tombol Build and Run untuk menjalankan program.
+5. Program akan muncul di layar console, lalu gunakan aplikasi sesuai menu atau instruksi yang ditampilkan.
+
 # Program ini disusun oleh : 
 Andreson Enrique Wong 
 Rafi Akmal Rizalda 
